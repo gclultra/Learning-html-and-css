@@ -1,3 +1,23 @@
-p{
+/* p.error{
     color: red;
+}
+p.success{
+    color: rgb(3, 187, 3);
+}
+p.success.feedback{
+    border: 1px dashed green;
+}
+#content{
+    background-color: #ebebeb;
+    padding: 20px;
+} */
+/* div .error{
+    color: red;
+} */
+a[href="https://www.youtube.com"]{
+    background: #3dd13d;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
 }
