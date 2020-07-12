@@ -26,7 +26,7 @@ a[href$=".com"]{
     background: red;
     border: 2px solid blue;
 } */
-div{
+/* div{
     color: lightcoral;
     border: 1px solid grey;
     margin: 40px;
@@ -39,4 +39,4 @@ div p{
 }
 p{
     color: orange;
-}
+} */
