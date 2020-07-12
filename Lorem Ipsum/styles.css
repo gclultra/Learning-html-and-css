@@ -14,10 +14,15 @@ p.success.feedback{
 /* div .error{
     color: red;
 } */
-a[href="https://www.youtube.com"]{
+a[href*="youtube"]{
     background: #3dd13d;
     color: white;
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
+}
+a[href$=".com"]{
+    color: white;
+    background: red;
+    border: 2px solid blue;
 }
